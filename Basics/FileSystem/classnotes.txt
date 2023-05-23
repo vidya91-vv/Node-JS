@@ -1,0 +1,8 @@
+Node JS :
+
+1. Its a JS Runtime ( Not a Framework/Library)
+2. Runs on crome v8 Engine
+3. written c++
+4. To develop Server-Side Application in JS
+5. Node JS - Easy to Learn
+
